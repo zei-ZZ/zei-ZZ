@@ -40,6 +40,7 @@ You can contact me on my email:   <a href="mailto:zeineb.benabdallah02gmail.com"
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zei-ZZ&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zei-ZZ&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zei-ZZ&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>  
 
