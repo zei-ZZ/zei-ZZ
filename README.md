@@ -3,7 +3,7 @@
 
 # Hey there, I'm Zeineb 👋  
 
-💻 Software Engineering Student @ [INSAT](https://insat.rnu.tn/) | 🚀 Engineer @ [Medius](https://www.medius.com) | 🌍 Tech Explorer  
+💻 Software Engineering Student @ [INSAT](https://insat.rnu.tn/) | 🚀 Software Engineer @ [Medius](https://www.medius.com) | 🌍 Tech Explorer  
 
 ---
 
