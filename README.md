@@ -30,7 +30,7 @@ You can contact me on my email:   <a href="mailto:zeineb.benabdallah02gmail.com"
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)](https://github.com/inttter/md-badges#database) 
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](https://github.com/inttter/md-badges#database) 
-[![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=fff)](https://github.com/inttter/md-badges#cloud-system) 
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)](https://github.com/inttter/md-badges#cloud-system) 
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)](https://github.com/inttter/md-badges#framework)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
