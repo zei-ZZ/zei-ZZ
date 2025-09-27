@@ -13,7 +13,12 @@
 🌱 On a journey to master **cloud computing, distributed systems, and real-time data pipelines**.  
 ☕ Fueled by curiosity (and a lot of coffee).  
 
-You can contact me on my email:   <a href="mailto:zeineb.benabdallah02gmail.com">zeineb.benabdallah02gmail.com</a>
+  🌐 You can reach me at: 
+<p align="center">
+  <a href="https://linkedin.com/in/zeineb-benabdallah"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zeineb.benabdallah02gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/zei-ZZ"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+</p>  
 
 ---
 
@@ -44,15 +49,6 @@ You can contact me on my email:   <a href="mailto:zeineb.benabdallah02gmail.com"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zei-ZZ&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>  
 
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/zeineb-benabdallah"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:zeineb.benabdallah02gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/zei-ZZ"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-</p>  
 
 ---
 
